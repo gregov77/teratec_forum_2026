@@ -118,27 +118,33 @@ Optional:
 
 # Open the Notebooks in Google Colab
 
-## Practical 1 – Hello World
+## Lab 1 - Getting started with myQLM
 
-https://colab.research.google.com/github/gregov77/teratec_forum_2026/blob/main/1_Helloworld_guided_blank.ipynb
-
----
-
-## Practical 2 – Partial Measurements
-
-https://colab.research.google.com/github/gregov77/teratec_forum_2026/blob/main/2_Partial_measures_guided_blank.ipynb
+https://colab.research.google.com/github/gregov77/teratec_forum_2026/blob/main/lab1_getting_started_with_myqlm.ipynb
 
 ---
 
-## Practical 3 – Quantum Full Adder
+## Lab 2 – Bell states and QRoutines
 
-https://colab.research.google.com/github/gregov77/teratec_forum_2026/blob/main/3_Full_Adder_guided_blank.ipynb
+https://colab.research.google.com/github/gregov77/teratec_forum_2026/blob/main/lab2_bell_states_and_qroutines.ipynb
 
 ---
 
-## Practical 4 – Deutsch-Jozsa Algorithm
+## Lab 3 – Full-adder
 
-https://colab.research.google.com/github/gregov77/teratec_forum_2026/blob/main/4_deutsch-jozsa_guided_blank.ipynb
+https://colab.research.google.com/github/gregov77/teratec_forum_2026/blob/main/lab3_full_adder.ipynb
+
+---
+
+## Lab 4 – Quantum teleportation
+
+https://colab.research.google.com/github/gregov77/teratec_forum_2026/blob/main/lab4_quantum_teleportation.ipynb
+
+---
+
+## Lab 5 – Bernstein-Vazirani algorithm
+
+https://colab.research.google.com/github/gregov77/teratec_forum_2026/blob/main/lab5_bernstein_vazirani.ipynb
 
 ---
 
