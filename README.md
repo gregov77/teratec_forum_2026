@@ -100,7 +100,9 @@ Then open the notebook corresponding to the practical session.
 
 # Option 3 – Google Colab
 
-If you do not wish to install myQLM locally, all notebooks can also be executed in Google Colab.
+If you have a Google account and do not wish to install myQLM locally, all notebooks can also be executed directly in Google Colab.
+
+Google Colab runs entirely in the browser and requires no local installation.
 
 Before starting a notebook, execute:
 
